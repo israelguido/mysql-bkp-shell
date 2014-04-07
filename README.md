@@ -1,8 +1,8 @@
 MyBKP
 ===============
 
-Script para backup de banco de dados REMOTO ou LOCAL. \n
-Author: Israel Guido \n
-E-mail: eu@israelguido.com.br \n
-Date: 2014-04 \n
-Website: http://israelguido.com.br \n
+Script para backup de banco de dados REMOTO ou LOCAL. <br />
+Author: Israel Guido <br />
+E-mail: eu@israelguido.com.br <br />
+Date: 2014-04 <br />
+Website: http://israelguido.com.br <br />
