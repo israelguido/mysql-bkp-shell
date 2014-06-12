@@ -1,3 +1,4 @@
+#!/bin/sh
 #
 # script by israelguido@gmail.com
 #
